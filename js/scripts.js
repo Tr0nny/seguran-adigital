@@ -199,10 +199,10 @@ const questions = [
     ],
   },
   {
-    question: '',
+    question: 'Seu anti-vírus alertou sobre um programa:',
     answers: [
       {
-        answer: 'verifico o link em cima da página',
+        answer: 'Desinstalo o programa e faço uma varredura no sistema',
         correct: true,
       },
       {
@@ -210,7 +210,7 @@ const questions = [
         correct: false,
       },
       {
-        answer: 'mando meus dados e se der certo é porque é verdadeiro.',
+        answer: 'Desinstalo o anti-vírus',
         correct: false,
       },
       {
